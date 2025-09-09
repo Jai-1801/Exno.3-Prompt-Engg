@@ -106,5 +106,6 @@ The chart provides clear, structured, and visually appealing nutritional informa
 
 "The above figure represents the same nutritional chart in a more engaging and pictorial form for better readability and presentation."
 
-# Result: Thus the Prompts were exected succcessfully .
+# Result: 
+Thus the Prompts were exected succcessfully
 
